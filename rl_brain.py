@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sat Mar  3 12:26:48 2018
-
-@author: Ian
 
 This script is for creating a RL agent class object. This object has the 
 following method:
