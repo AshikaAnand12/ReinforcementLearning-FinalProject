@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sat Mar  3 12:26:58 2018
-
-@author: Ian, Prince, Brenton, Alex
 
 This script is for creating an Environment class. Each environment represents
 a bike station with the following methods:
