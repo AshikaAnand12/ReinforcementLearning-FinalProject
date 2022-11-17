@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sun Mar  4 15:54:01 2018
-
-@author: Ian, Prince, Brenton, Alex
-
 This is the main workflow of the RL program.
 
 """
