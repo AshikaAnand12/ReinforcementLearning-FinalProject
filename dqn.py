@@ -1,10 +1,4 @@
-"""
 
-@author: Ian, Prince, Brenton, Alex
-
-rl_brain_v2 is the neural network implementation of the q function. The structure is copied from MorvanZhou
-
-"""
 
 import numpy as np
 import pandas as pd
